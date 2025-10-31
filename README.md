@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=ICT+Student+at+Mahidol+University;Aspiring+Software+Developer;C+and+Java+Learner;Dream.+Learn.+Code.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=ICT+Student+at+Mahidol+University;Aspiring+Full-Stack+Developer;C+and+Java+Learner;Dream.+Learn.+Code.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me  
 🎓 **First-Year Information and Communication Technology Student @ Mahidol University**  
-💻 Passionate about **software development**, **clean code**, and **continuous learning**.  
+💻 Passionate about **full-stack development**, **clean code**, and **continuous learning**.  
 🌱 Currently learning **C**, **Java**, and exploring **web development**.  
 🎯 Goal: To become a developer who builds impactful, efficient, and creative digital solutions.
 
