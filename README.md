@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Darin!!
-- 🔭 I’m a first year student of ICT at Mahidol University.
-- 🌱 I’m currently learning C and Java pograming language.
+- 🔭 I’m a first year student in ICT at Mahidol University.
+- 🌱 I’m currently learning C and Java.
 - 👯 I’m aspiring Full-Stack Developer.
 
 for contact? do reach, [email](mailto:nuhachoeiiam@gmail.com) :)
