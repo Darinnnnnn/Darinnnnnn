@@ -67,7 +67,7 @@ I can’t end a coding session until I fix that one tiny bug — even if it’s 
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/java-calculator">
+  <a href="https://github.com/Darinnnnnn/JAVA">
     <img src="https://img.shields.io/badge/🧮_Java%20Calculator-5C6BC0?style=for-the-badge" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/c-mini-game">
