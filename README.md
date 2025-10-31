@@ -21,6 +21,13 @@
 
 ---
 
+### 🎓 Education
+- **Mahidol University** — B.Sc. in Information and Communication Technology (ICT)  
+  _First-Year Student | 2025–Present_  
+  🏅 **Merit Scholarship (Four-Year Partial Scholarship)**
+
+---
+
 ### 🧠 Tech Stack & Tools  
 <p align="center">
   <!-- Languages -->
@@ -67,18 +74,6 @@ I can’t end a coding session until I fix that one tiny bug — even if it’s 
     <img src="https://img.shields.io/badge/🎮_C%20Mini%20Game-00897B?style=for-the-badge" />
   </a>
 </p>
-
----
-
-### 🎓 Education
-- **Mahidol University** — B.Sc. in Information and Communication Technology (ICT)  
-  _First-Year Student | 2025–Present_
-
----
-
-### 🏅 Certifications/ Award
-- Introduction to C Programming (Coursera)
-- Java Fundamentals (Oracle Academy)
 
 ---
 
