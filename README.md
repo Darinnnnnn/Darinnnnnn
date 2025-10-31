@@ -58,6 +58,32 @@ I can’t end a coding session until I fix that one tiny bug — even if it’s 
 
 ---
 
+### 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/java-calculator">
+    <img src="https://img.shields.io/badge/🧮_Java%20Calculator-5C6BC0?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/c-mini-game">
+    <img src="https://img.shields.io/badge/🎮_C%20Mini%20Game-00897B?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🎓 Education
+- **Mahidol University** — B.Sc. in Information and Communication Technology (ICT)  
+  _First-Year Student | 2025–Present_
+
+---
+
+### 🏅 Certifications/ Award
+- Introduction to C Programming (Coursera)
+- Java Fundamentals (Oracle Academy)
+
+---
+
 <p align="center">
 ✨ <b>"Dream. Learn. Code. Repeat."</b> ✨  
 </p>
+
+
