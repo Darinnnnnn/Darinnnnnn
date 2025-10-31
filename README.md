@@ -43,7 +43,7 @@
   <a href="mailto:nuhachoeiiam@gmial.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="https://drive.google.com/file/d/1kXBzsPHthbV-615kgsAjoi2qpUli9TMn/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-5C6BC0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
