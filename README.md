@@ -1,13 +1,10 @@
-
-
-
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#5C6BC0;">Darin</span>!</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#9D84FF;">Darin</span>!</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C6BC0&center=true&vCenter=true&width=500&lines=ICT+Student+at+Mahidol+University;Aspiring+Full-Stack+Developer;C+and+Java+Learner;Dream.+Learn.+Code.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D84FF&center=true&vCenter=true&width=500&lines=ICT+Student+at+Mahidol+University;Aspiring+Full-Stack+Developer;C+and+Java+Learner;Dream.+Learn.+Code.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,10 +27,9 @@
 
 ### 🧠 Tech Stack & Tools  
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c,java,vscode,github" />
   <br>
-  <sub>Always learning and exploring new technologies 🚀</sub>
+  <sub style="color:#9D84FF;">Always learning and exploring new technologies 🚀</sub>
 </p>
 
 ---
@@ -48,13 +44,13 @@
 ### 🤝 Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/nuhachoeiiam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-9D84FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nuhachoeiiam@gmial.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-B39DFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1kXBzsPHthbV-615kgsAjoi2qpUli9TMn/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-5C6BC0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄_Resume-C3A6F5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
@@ -68,10 +64,10 @@ I can’t end a coding session until I fix that one tiny bug — even if it’s 
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/Darinnnnnn/JAVA">
-    <img src="https://img.shields.io/badge/🧮_Java%20Calculator-5C6BC0?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🧮_Java%20Calculator-9D84FF?style=for-the-badge" />
   </a>
   <a href="https://github.com/Darinnnnnn/C_Mini_Game">
-    <img src="https://img.shields.io/badge/🎮_C%20Mini%20Game-00897B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎮_C%20Mini%20Game-B39DFF?style=for-the-badge" />
   </a>
 </p>
 
@@ -80,5 +76,3 @@ I can’t end a coding session until I fix that one tiny bug — even if it’s 
 <p align="center">
 ✨ <b>"Dream. Learn. Code. Repeat."</b> ✨  
 </p>
-
-
