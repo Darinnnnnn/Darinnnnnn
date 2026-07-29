@@ -56,11 +56,6 @@
 
 ---
 
-### ⚡ Fun Fact  
-I can’t end a coding session until I fix that one tiny bug — even if it’s 2 a.m. 🕓  
-
----
-
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/Darinnnnnn/JAVA">
