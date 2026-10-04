@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me  
-🎓 **First-Year Information and Communication Technology Student @ Mahidol University**  
+🎓 **Second-Year Information and Communication Technology Student @ Mahidol University**  
 💻 Passionate about **full-stack development**, **clean code**, and **continuous learning**.  
 🌱 Currently learning **C**, **Java**, and exploring **web development**.  
 🎯 Goal: To become a developer who builds impactful, efficient, and creative digital solutions.
@@ -20,7 +20,7 @@
 
 ### 🎓 Education
 - **Mahidol University** — B.Sc. in Information and Communication Technology (ICT)  
-  _First-Year Student | 2025–Present_  
+  _Second-Year Student | 2025–Present_  
   🏅 **Merit Scholarship (Four-Year Partial Scholarship)**
 
 ---
